@@ -1,0 +1,13 @@
+F:\1 - Tecnico\01 - DSO\33 - Projeto(Diário de Bordo)\Projeto(Posts)\Projeto(Posts)\bin\Debug\Projeto(Posts).exe.config
+F:\1 - Tecnico\01 - DSO\33 - Projeto(Diário de Bordo)\Projeto(Posts)\Projeto(Posts)\bin\Debug\Projeto(Posts).exe
+F:\1 - Tecnico\01 - DSO\33 - Projeto(Diário de Bordo)\Projeto(Posts)\Projeto(Posts)\bin\Debug\Projeto(Posts).pdb
+F:\1 - Tecnico\01 - DSO\33 - Projeto(Diário de Bordo)\Projeto(Posts)\Projeto(Posts)\bin\Debug\MySql.Data.dll
+F:\1 - Tecnico\01 - DSO\33 - Projeto(Diário de Bordo)\Projeto(Posts)\Projeto(Posts)\obj\Debug\Projeto_Posts_.ComponenteAnotacoes.resources
+F:\1 - Tecnico\01 - DSO\33 - Projeto(Diário de Bordo)\Projeto(Posts)\Projeto(Posts)\obj\Debug\Projeto_Posts_.ComponenteAnotacao.resources
+F:\1 - Tecnico\01 - DSO\33 - Projeto(Diário de Bordo)\Projeto(Posts)\Projeto(Posts)\obj\Debug\Projeto_Posts_.Form1.resources
+F:\1 - Tecnico\01 - DSO\33 - Projeto(Diário de Bordo)\Projeto(Posts)\Projeto(Posts)\obj\Debug\Projeto_Posts_.Properties.Resources.resources
+F:\1 - Tecnico\01 - DSO\33 - Projeto(Diário de Bordo)\Projeto(Posts)\Projeto(Posts)\obj\Debug\Projeto(Diário de Bordo).csproj.GenerateResource.Cache
+F:\1 - Tecnico\01 - DSO\33 - Projeto(Diário de Bordo)\Projeto(Posts)\Projeto(Posts)\obj\Debug\Projeto(Posts).exe
+F:\1 - Tecnico\01 - DSO\33 - Projeto(Diário de Bordo)\Projeto(Posts)\Projeto(Posts)\obj\Debug\Projeto(Posts).pdb
+F:\1 - Tecnico\01 - DSO\33 - Projeto(Diário de Bordo)\Projeto(Posts)\Projeto(Posts)\bin\Debug\Newtonsoft.Json.dll
+F:\1 - Tecnico\01 - DSO\33 - Projeto(Diário de Bordo)\Projeto(Posts)\Projeto(Posts)\bin\Debug\Newtonsoft.Json.xml
